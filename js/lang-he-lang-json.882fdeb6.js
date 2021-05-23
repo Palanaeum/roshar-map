@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["lang-he-lang-json"],{4643:function(n){n.exports=JSON.parse('{"text-direction":"rtl"}')}}]);
